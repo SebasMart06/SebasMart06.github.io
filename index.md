@@ -35,3 +35,30 @@ My GitHub page is http://github.com/SebasMart06.
     had us make use of all the concepts we learned while expanding on 
     the uses of vectors.
 
+### CPSC 121
+
+* Lab 3
+
+    Lab 3, part 2 was memorable as it introduced us to classes and their 
+    functions. The user would pick a drink creating a drink object to 
+    which the program manipulated the values of depending on the class
+    function called. This lab showed me the value classes have and how they
+    are valuable for making code more effective and efficient.
+
+* Lab 8
+
+    Lab 8, part 2 was one I remember well as it made use of maps within
+    classes. The program would create bank accounts assigned a specific
+    account ID capable of storing a person's name and funds as well as
+    the capability to be deactivated. This lab stuck with me as it showed
+    me the versatility of classes and how they can store a list of data
+    capable of being accessed individually or as a group.
+
+* Lab 10
+
+    Lab 10 was one of my favorite labs from this semester as it used
+    class-oriented programming to remove and replace stored data. In this
+    lab, we used a constructor to add a star object containing its name and
+    measurements of it to our star class. Then the program would tell the
+    user the calculated measurements of the star before it went supernova
+    and was destructed from the class.
