@@ -62,3 +62,15 @@ My GitHub page is http://github.com/SebasMart06.
     measurements of it to our star class. Then the program would tell the
     user the calculated measurements of the star before it went supernova
     and was destructed from the class.
+
+### CPSC 131
+
+* Data Structures 
+
+    CPSC 131 was another cpp oriented class which went into detail on
+    the topic of Data Structures. This class focused on the concepts
+    and use cases of vectors, linked lists, stack, queue, and binary
+    search trees. What we learned was applied through an object-oriented
+    style of programming showing us real-world ways to apply data
+    management. What I learned helps me to differentiate the different
+    data types, as well as optimize my coding regarding memory usage.
